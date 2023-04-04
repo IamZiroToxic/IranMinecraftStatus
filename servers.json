@@ -1,4 +1,4 @@
 [
- {"serverName":"Trexmine","serverIp":"play.trexmine.com","serverImg":"https://cdn.discordapp.com/icons/666614850683797534/4102f0d9d24e2ce5536044fb4bb1c9b7.png?size=4096"},
- {"serverName":"Madcraft","serverIp":"play.madcraft.ir","serverImg":"https://cdn.discordapp.com/icons/908650602584764426/7b438107854dc0fd32cdc3fb00b6895b.png?size=4096"}  
+ {"serverName":"Trexmine","serverIp":"play.trexmine.com","serverPort":25565,"serverImg":"https://cdn.discordapp.com/icons/666614850683797534/4102f0d9d24e2ce5536044fb4bb1c9b7.png?size=4096"},
+ {"serverName":"Madcraft","serverIp":"play.madcraft.ir","serverPort":25565,"serverImg":"https://cdn.discordapp.com/icons/908650602584764426/7b438107854dc0fd32cdc3fb00b6895b.png?size=4096"}  
 ]
